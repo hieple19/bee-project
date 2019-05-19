@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/Bee-icon.png</file>
+        <file>images/pie_chart.png</file>
+        <file>images/BeeRex.png</file>
+        <file>images/BusyBee_icon.png</file>
+        <file>images/sun_icon.png</file>
+        <file>images/autumn_icon.png</file>
+        <file>images/spring_icon.png</file>
+        <file>images/winter_icon.png</file>
+        <file>images/rain_icon.ico</file>
+        <file>images/snow_.ico</file>
+        <file>images/wind_icon.png</file>
+        <file>images/default_icon.png</file>
+        <file>about.cpp</file>
+        <file>images/random_icon.png</file>
+        <file>images/bb_antenna.png</file>
+        <file>images/switch_off.png</file>
+        <file>images/switch_on.png</file>
+    </qresource>
+</RCC>
